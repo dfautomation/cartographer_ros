@@ -14,6 +14,8 @@
 
 cmake_minimum_required(VERSION 2.8.12)  # Ships with Ubuntu 14.04 (Trusty)
 
+add_compile_options(-std=c++14)
+
 project(cartographer_rviz)
 
 set(PACKAGE_DEPENDENCIES
