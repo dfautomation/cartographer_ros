@@ -2,8 +2,8 @@
 Changelog for package cartographer_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2023-09-18)
+------------------
 * Use c++14 due to pcl requirement.
 * Contributors: Farhan Mustar
 
