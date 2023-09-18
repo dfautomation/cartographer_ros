@@ -2,6 +2,11 @@
 Changelog for package cartographer_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Use c++14 due to pcl requirement.
+* Contributors: Farhan Mustar
+
 1.0.0 (2018-06-01)
 ----------------------
 * https://github.com/googlecartographer/cartographer_ros/compare/0.3.0...1.0.0

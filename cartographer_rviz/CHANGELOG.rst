@@ -2,6 +2,11 @@
 Changelog for package cartographer_rviz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Use c++14 due to pcl requirement.
+* Contributors: Farhan Mustar
+
 0.3.0 (2017-11-23)
 ------------------
 * https://github.com/googlecartographer/cartographer_ros/compare/0.2.0...0.3.0
